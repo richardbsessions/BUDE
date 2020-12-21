@@ -1,0 +1,5 @@
+Principal developer:  Amaurys Avila Ibarra
+
+Based on code from: Richard B Sessions, Nick Gibbs, Sophy Smith, Mike D Tyka, Jon Rea, Terry Wilson, James Price
+
+and ideas from: Richard B Sessions, Anthony R Clarke, Simon McIntosh-Smith, Nick Gibbs, Sophy Smith, Mike D Tyka, Jon Rea, Jon Crisp, Deborah K Shoemark
